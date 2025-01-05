@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## About me
+I'm currently a Computer Science & Mathematics student at Vanier College.
 ---
 ## Tech
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
