@@ -3,7 +3,7 @@
 ## About me
 - My name is Alessandro Pomponi
 - You can reach me at alexpomponi1@gmail.com
-- I'm currently a Computer Science & Mathematics student at Vanier College.
+- I'm currently pursuing a Bachelor's in Software Engineering at Concordia University.
 ---
 ## Tech
 <!-- ![image](BadgeURLHere) -->
